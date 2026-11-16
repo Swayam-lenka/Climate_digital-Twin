@@ -1,0 +1,11 @@
+torch
+numpy
+pandas
+xarray
+scipy
+bottleneck
+netCDF4
+matplotlib
+pytorch-msssim
+notebook
+ipykernel
